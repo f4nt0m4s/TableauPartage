@@ -1,0 +1,14 @@
+-d bin -encoding utf8 -parameters -cp .
+
+./formes/Carre.java
+./formes/Cercle.java
+./formes/Fleche.java
+./formes/Texte.java
+./formes/Forme.java
+./thread/ThreadEmission.java
+./thread/ThreadReception.java
+./configuration/ConfigurationLoader.java
+./gui/PanelMessage.java
+./gui/PanelDessin.java
+./gui/FrameApp.java
+
